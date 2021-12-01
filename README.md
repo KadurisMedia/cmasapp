@@ -6,7 +6,7 @@ It uses the Office365outlook connector to send a digital greeting card.
 Instructions:
 
 1- Download the app file.  
-2- Head over to https://make.powerapps.com. 
+2- Head over to https://make.powerapps.com.   
 3- Import your zip file.   
 4- Use the 'Onstart' to change your values for images & greetings.  
   
