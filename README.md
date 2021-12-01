@@ -1,5 +1,5 @@
 # cmasapp
-Make your employees happy this Christmas.
+Make your employees happy this Christmas.  
 This is a basic Powerapps solution to send Christmas greeting cards.
 It uses the Office365outlook connector to send a digital greeting card.  
   
